@@ -7,18 +7,18 @@
     padding: 20px;
 }
 
-.header--image {
+.header-image {
     height: 100%;
     margin-right: 6px;
 }
 
-.header--title {
+.header-title {
     margin-left: 1%;
     font-size: 1.75rem;
     margin-right: auto;
 }
 
-.header--project {
+.header-project {
     font-size: 1rem;
     font-weight: 500;
 }
